@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Banner](images/Mohamed)
+![Banner](images/banner)
 
 # Hi, I'm Mohamed Siraj Eddine Hamoudi 👋
 
@@ -17,7 +17,7 @@
 
 ## 👤 About Me
 
-<img align="right" width="180" src="https://via.placeholder.com/180?text=Your+Photo" alt="Profile photo" />
+<img align="right" width="180" src="images/S.jpg" alt="Profile photo" />
 
 - 🎓 Engineering student at **TEK-UP University**, Tunisia 🇹🇳
 - 🔐 Specializing in **cybersecurity** (systems, infrastructure & networks security)
@@ -41,17 +41,20 @@
 <!-- Or use a single icon line: -->
 <!-- ![Skills](https://skillicons.dev/icons?i=linux,python,bash,git,docker,aws) -->
 
----
+## 📜 Certifications
 
+| Certification | Issuer | Credential |
+|---|---|---|
+| ✅ **PCAP** – Certified Associate in Python Programming | Python Institute | [Verify](https://[your-credential-link]) |
+| ✅ **AWS Certified Cloud Practitioner** | Amazon Web Services | [Verify](https://[your-credly-link]) |
 
+<!-- Optional: badge images side by side -->
+<p>
+  <a href="https://[your-credly-link]"><img src="images/images.jpeg" alt="AWS Cloud Practitioner" width="120" /></a>
+  <a href="https://[your-credential-link]"><img src="images/images.png" alt="PCAP" width="120" /></a>
+</p>
 
-## 📜 Certifications & Learning
-
-- 🔄 RHCSA (in progress)
-- 🔄 [Another certification]
-- ✅ [Completed certification]
-
----
+**Next:** 🔄 RHCSA · 🔄 AWS Solutions Architect Associate
 
 
 ## 📫 Let's Connect
